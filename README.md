@@ -1,0 +1,2 @@
+# Orien
+实现重启Activity与非重启Activity的横竖屏幕切换
